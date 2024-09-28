@@ -8,5 +8,5 @@
 
 
 
-<h3 align="left">Support:</h3>
+<h3 align="Center">Support:</h3>
 <p><a href="https://ko-fi.com/laggermaster"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="laggermaster" /></a></p><br><br>
