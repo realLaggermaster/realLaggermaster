@@ -1,4 +1,4 @@
-<h1 align="center">Hello I am Laggermaster</h1>
+<h2 align="center">Hello I am Laggermaster</h2>
 <h3 align="center">Welcome to my profile!</h3>
 
 
