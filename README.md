@@ -1,5 +1,5 @@
 <h2 align="center">Hello I am Laggermaster</h2>
-<h3 align="center">Welcome to my profile!</h3>
+<b><p align="center">Welcome to my profile!</p></b>
 
 
 <h3 align="center">Languages I know / have worked with:</h3>
